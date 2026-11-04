@@ -107,11 +107,9 @@ $pageId = get_the_ID();
 
             ?>
         </div>
-        <?php
-	        /*<div class="artists col-6">
-			<?php echo apply_filters('the_content', get_the_content(null, false, 847)); ?>
-        </div>*/
-        ?>
+        <div class="artists col-6">
+			<?php echo apply_filters('the_content', get_the_content(null, false, 976)); ?>
+        </div>
     </div>
 </section>
 
