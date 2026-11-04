@@ -302,13 +302,13 @@ $footer-p-sizes: (
 );
 
 footer {
-  border-top: #fff 3px solid;
+  border-top: #000 3px solid;
   padding: 2rem 0;
-  background-color: #7469B6;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   
   a {
-	  color: #fff;
+	  color: #000;
   }
 
   hr {

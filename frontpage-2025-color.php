@@ -14,6 +14,8 @@ $pageId = get_the_ID();
 ?>
 <section id="particles">
 	<div id="color-background"></div>
+	
+	
     <div class="spray-logo" style="position:relative;">
         <?php
           echo file_get_contents(locate_template("img/2025/logo-mini-alt.svg"));
