@@ -13,7 +13,7 @@
 
             </div>
             <div class="col-6">
-                <?php echo file_get_contents(locate_template("img/2025/header-description-alt-negative.svg")); ?>
+                <?php echo file_get_contents(locate_template("img/2025/header-description-alt-2027.svg")); ?>
             </div>
 		</div>
     </div>
