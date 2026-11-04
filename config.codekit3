@@ -218,51 +218,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/css\/2025\/_animation.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 1,
-      "oA" : 1,
-      "oAP" : "\/css\/2025\/_animation.css",
-      "oF" : 0,
-      "oS" : 3,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/css\/2025\/_fonts.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 1,
-      "oA" : 1,
-      "oAP" : "\/css\/2025\/_fonts.css",
-      "oF" : 0,
-      "oS" : 3,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/css\/2025\/_input.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 1,
-      "oA" : 1,
-      "oAP" : "\/css\/2025\/_input.css",
-      "oF" : 0,
-      "oS" : 3,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/css\/2025\/style-2025.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -274,29 +229,6 @@
       "oAP" : "\/css\/2025\/style-2025-min.css",
       "oF" : 0,
       "pg" : 0
-    },
-    "\/css\/2025\/style-2025.css.map" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/css\/2025\/style-2025.css.map",
-      "oF" : 0
-    },
-    "\/css\/2025\/style-2025.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 1,
-      "oA" : 0,
-      "oAP" : "\/css\/2025\/style-2025.css",
-      "oF" : 0,
-      "oS" : 3,
-      "pg" : 0,
-      "sct" : 1
     },
     "\/css\/style-2022.css" : {
       "aP" : 1,
@@ -507,12 +439,12 @@
       "oAP" : "\/font\/Roboto-latin.woff2",
       "oF" : 0
     },
-    "\/footer-white.php" : {
+    "\/footer-colored.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/footer-white.php",
+      "oAP" : "\/footer-colored.php",
       "oF" : 0
     },
     "\/footer.php" : {
